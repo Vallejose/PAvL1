@@ -1,0 +1,7 @@
+#ejecutables
+*.exe
+
+# archivos de compilacion
+*.o
+
+main
